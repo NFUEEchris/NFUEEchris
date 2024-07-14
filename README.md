@@ -3,8 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfueechris" alt="nfueechris" /></a> </p>
 
-# ACADEMIC
-- 🎓 **國立臺北科技大學 (National Taipei University of Technology, NTUT)**
+# 🎓ACADEMIC
+- **國立臺北科技大學 (National Taipei University of Technology, NTUT)**
+- **國立虎尾科技大學 (National Formosa University, NFU)**
 # THESIS:
 
 - **Design of Shrimp Length Estimation and Counting System Based on Instance Segmentation Technology**
