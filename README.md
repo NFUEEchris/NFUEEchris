@@ -5,7 +5,7 @@
 
 - 🎓 **國立臺北科技大學 (National Taipei University of Technology, NTUT)**
 
-- Thesis **Design of Shrimp Length Estimation and Counting System Based on Instance Segmentation Technology**
+- **Thesis:** **Design of Shrimp Length Estimation and Counting System Based on Instance Segmentation Technology**
 
 - 🥉 **榮獲「2023全國大專校院智慧創新暨跨域整合創作競賽-智慧機器組 」第三名**
 
