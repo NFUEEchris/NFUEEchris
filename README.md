@@ -5,7 +5,7 @@
 
 # ACADEMIC
 - 🎓 **國立臺北科技大學 (National Taipei University of Technology, NTUT)**
-# Thesis:
+# THESIS:
 
 - **Design of Shrimp Length Estimation and Counting System Based on Instance Segmentation Technology**
 # COMPETITION
