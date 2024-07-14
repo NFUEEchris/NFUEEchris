@@ -2,18 +2,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nfueechris&label=Profile%20views&color=0e75b6&style=flat" alt="nfueechris" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfueechris" alt="nfueechris" /></a> </p>
-
+r
+# ACADEMIC
 - 🎓 **國立臺北科技大學 (National Taipei University of Technology, NTUT)**
+# Thesis:
 
-- **Thesis:** **Design of Shrimp Length Estimation and Counting System Based on Instance Segmentation Technology**
-
+- **Design of Shrimp Length Estimation and Counting System Based on Instance Segmentation Technology**
+# COMPETITION
 - 🥉 **榮獲「2023全國大專校院智慧創新暨跨域整合創作競賽-智慧機器組 」第三名**
 
 - 🏅 **榮獲「教育部精準健康產業跨領域人才培育計畫之精準農業領域創業競賽」佳作**
 
-- 📫 How to reach me **bblow988@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **bblow988@gmail.com**
 <p align="left">
 </p>
 
