@@ -15,8 +15,8 @@
 - 🏅 **榮獲「教育部精準健康產業跨領域人才培育計畫之精準農業領域創業競賽」佳作**
 
 
-# COMPETITION
-- 📫 How to reach me **bblow988@gmail.com**
+# 📫 How to reach me
+**bblow988@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
