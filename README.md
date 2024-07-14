@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nfueechris&label=Profile%20views&color=0e75b6&style=flat" alt="nfueechris" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfueechris" alt="nfueechris" /></a> </p>
-r
+
 # ACADEMIC
 - 🎓 **國立臺北科技大學 (National Taipei University of Technology, NTUT)**
 # Thesis:
