@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm 林嘉泓 Chris</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nfueechris&label=Profile%20views&color=0e75b6&style=flat" alt="nfueechris" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfueechris" alt="nfueechris" /></a> </p>
+
+- 🎓 **國立臺北科技大學 (National Taipei University of Technology, NTUT)**
+
+- Thesis **Design of Shrimp Length Estimation and Counting System Based on Instance Segmentation Technology**
+
+- 🥉 **榮獲「2023全國大專校院智慧創新暨跨域整合創作競賽-智慧機器組 」第三名**
+
+- 🏅 **榮獲「教育部精準健康產業跨領域人才培育計畫之精準農業領域創業競賽」佳作**
 
 - 📫 How to reach me **bblow988@gmail.com**
 
@@ -19,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nfueechris&show_icons=true&locale=en" alt="nfueechris" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nfueechris&" alt="nfueechris" /></p>
-
