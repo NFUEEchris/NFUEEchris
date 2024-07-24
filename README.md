@@ -5,7 +5,7 @@
 
 # 🎓ACADEMIC
 - **Master 國立臺北科技大學 (National Taipei University of Technology, NTUT)**
-- **Bachelor國立虎尾科技大學 (National Formosa University, NFU)**
+- **Bachelor 國立虎尾科技大學 (National Formosa University, NFU)**
 # THESIS:
 
 - **Design of Shrimp Length Estimation and Counting System Based on Instance Segmentation Technology**
